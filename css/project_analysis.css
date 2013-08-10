@@ -20,15 +20,18 @@ body {
 }
 
 #client {
+	margin-bottom: 0px;
+	color: #27408B;
+}
+
+#header {
 	font-family: 'Alegreya SC', serif;
-	color: #fff;
 	width: 40%;
-	font-size: 2.5em;
+	font-size: 1.2em;
 	text-align: center;	
-	border-bottom: 2px solid;
+	border-bottom: 2px black solid;
 	padding-bottom: 1px;
 	margin-left: 30%;
-	margin-bottom: 15px;
 }
 
 a {
@@ -37,19 +40,19 @@ a {
 
 
 a:link {
-	color: #CD0000;
+	color: #27408B;
 }
 
 a:visited {
-	color: #CD0000;
+	color: #27408B;
 }
 
 a:hover {
-	color: #CD0000;
+	color: #27408B;
 }
 
 a:active {
-	color: #CD0000;
+	color: #27408B;
 }
 
 #name {
@@ -133,6 +136,8 @@ li {
 }
 
 .demo {
+	font-variant: small-caps;
+	font-size: .875em; 
 	color: #616161;
 	margin-left: 6%;
 }
@@ -152,7 +157,8 @@ li {
 	margin-left: 6%;
 }
 
-#audit {
+#audit a {
+	color: #CD0000;
 	font-size: .875em;
 	padding-top: 40px;
 }
