@@ -104,7 +104,8 @@ h2 {
 p {
 	font-family: 'Pathway Gothic One', sans-serif;
 	color: #3B3B3B;
-	text-indent: 2%;  
+	text-indent: 2%; 
+	margin-top: 3px; 
 }
 
 h3 {
@@ -128,6 +129,8 @@ h4 {
 	font-size: .937em;
 	color: #4A708B;
 	text-indent: 2%;
+	margin-top: 0px;
+	margin-bottom: 8px;
 }
 
 li {
