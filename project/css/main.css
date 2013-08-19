@@ -1,0 +1,81 @@
+/*-------------------- Global Reset --------------------------*/
+
+
+@import "global_rest.css";
+
+
+/*--------------------- Layout----------------------- */
+
+
+body { 
+	font: Arial; 
+    background-color: #FFF; 
+}
+
+
+footer { 
+	font-size: .9em;  
+	margin: 20px; 
+	padding: 10px 25px 10px 10px; 
+	color: rgba(255,255,255);    
+}
+
+
+/*-------------------- Navigation --------------------*/
+
+nav { 
+
+} 
+
+nav li a {
+	text-decoration: none;
+}
+
+nav li a:link {
+	color: #FFF:
+}
+
+nav li a:visited {
+	color: #E6E6FA;
+}
+
+nav li a:hover {
+	color: #FFF;
+}
+
+
+
+/*-------------------- Header ------------------------*/
+
+
+
+
+/*----------------------- Content ---------------------*/
+
+
+
+#copyright {
+	font-family: serif;
+	font-size: .80em;
+	color: #C2C2C2;
+	text-align: center;
+	width: 100%;
+	clear: both;
+	margin-top: 0;
+	padding-top: 10px;
+	border-top: solid 1px #C2C2C2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
